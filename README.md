@@ -2,7 +2,7 @@
 
 ### Linguagens:
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
-- **C#**
+- ## **C#**
 - ![Shell](https://img.icons8.com/ios-filled/50/000000/linux.png) **Shell**
 - ![Powershell](https://img.icons8.com/color/48/000000/powershell.png) **Powershell**
 
@@ -11,6 +11,6 @@
 - ![Kubernetes](https://img.icons8.com/ios-filled/50/000000/kubernetes.png) **Kubernetes**
 
 ### Plataformas:
-- **AWS**
+- ## **AWS**
 
 
