@@ -11,5 +11,5 @@
 - ![Kubernetes](https://img.icons8.com/ios-filled/50/000000/kubernetes.png) **Kubernetes**
 
 ### Plataformas:
-- ![AWS](https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png) **AWS**
+- ![AWS](https://upload.wikimedia.org/wikipedia/commons/6/69/Amazon_Web_Services_Logo.svg) **AWS**
 
